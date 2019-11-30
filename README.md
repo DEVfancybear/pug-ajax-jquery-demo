@@ -1,2 +1,2 @@
 # pug-ajax-demo-html
-# [LIVE DEMO](https://devfancybear.github.io/pug-ajax-juery-demo/)
+# [LIVE DEMO](https://devfancybear.github.io/pug-ajax-jquery-demo/)
